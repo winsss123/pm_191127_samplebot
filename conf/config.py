@@ -6,15 +6,15 @@ import os
 TZone = "Asia/Tokyo"
 
 # account
-ADMIN_ACCOUNT = "admin@lwbottest04"
-DOMAIN_ID = 153499
+ADMIN_ACCOUNT = "admin@lwbottest05"
+DOMAIN_ID = 153667
 
 # api
-API_ID = "kr1hLBbxHJiDs"
-SERVER_CONSUMER_KEY = "cqRT31EkE5TFcSZCkIzt"
+API_ID = "kr1MvAnmxOcUX"
+SERVER_CONSUMER_KEY = "1g1sZEEU0tqnEjNUhoF8"
 
-SERVER_ID = "c2d6d1eb148b4144a9f75abe49faece0"
-SECRET_KEY_NAME = "private_20191127124751.key"
+SERVER_ID = "fe2570c5ce2245c49c3df7755481105e"
+SECRET_KEY_NAME = "private_20191127155858.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://pm191127samplebot.herokuapp.com/"
